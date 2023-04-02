@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwlCJ&show_icons=true&theme=github_dark)
 
 # 💬 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pcj0308@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pcj0308@gmail.com)](mailto:pcj0308@gmail.com)

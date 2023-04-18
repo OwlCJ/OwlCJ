@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ## 💬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pcj0308@gmail.com)](mailto:pcj0308@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@bueong)](https://velog.io/@bueong)
